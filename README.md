@@ -79,7 +79,7 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 | 9 | Alta | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | 15/mai | 2 |
 | 10 | Alta | Como tomador de decisões de políticas públicas quero visualizar indicadores de crescimento ou decrescimento durante os anos dos setores predominantes na cidade. | 22/mai | 2 |
 | 11 | Média | Como tomador de decisões de políticas públicas quero definir modelo, cor e layout | 05/jun | 3 |
-| 12 | Alta | Como tomador de decisões de políticas públicas quero incluir os anos de 2019 e 2020 da base de dados para visualizar mais ampliada dos crescimentos e descrescimentos dos vínculos empregatícios ativos.  | 05/jun | 3 |
+| 12 | Alta | Como tomador de decisões de políticas públicas quero incluir os anos de 2019 e 2020 da base de dados para visualizar de forma mais ampliada os crescimentos e descrescimentos dos vínculos empregatícios ativos.  | 05/jun | 3 |
 | 13 | Alta | Como tomador de decisões de políticas públicas, quero uma interface clara e intuitiva combinando todos os blocos dentro do dashboard. | 05/jun | 3 |
 
 # Tratamento e Filtragem de Dados (Python – Google Colab)
