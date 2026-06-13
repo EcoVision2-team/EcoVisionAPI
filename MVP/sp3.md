@@ -2,22 +2,17 @@
 
 ## 🎯 Objetivo do MVP
 
-O objetivo deste MVP é aprimorar o dashboard desenvolvido em Power BI para fornecer uma visualização mais ampla e integrada dos vínculos empregatícios ativos, auxiliando tomadores de decisões de políticas públicas na análise de tendências do mercado de trabalho.
+> O objetivo deste MVP é aprimorar o dashboard desenvolvido em Power BI para fornecer uma visualização mais ampla e integrada dos vínculos empregatícios ativos, auxiliando tomadores de decisões de políticas públicas na análise de tendências do mercado de trabalho.
 
-- Problema Resolvido
+- Problema Resolvido: A versão anterior do dashboard possuía um período limitado de análise, dificultando a identificação de tendências históricas e comparações mais completas sobre a evolução dos vínculos empregatícios.
 
-A versão anterior do dashboard possuía um período limitado de análise, dificultando a identificação de tendências históricas e comparações mais completas sobre a evolução dos vínculos empregatícios.
+- Hipótese Validada: A inclusão de dados dos anos de 2019 e 2020, juntamente com melhorias visuais e de integração dos componentes do dashboard, permitirá análises mais precisas e facilitará a tomada de decisões baseada em dados.
 
-- Hipótese Validada
-
-A inclusão de dados dos anos de 2019 e 2020, juntamente com melhorias visuais e de integração dos componentes do dashboard, permitirá análises mais precisas e facilitará a tomada de decisões baseada em dados.
-
-- Valor Entregue ao Usuário Final
-
-* Visualização histórica ampliada dos vínculos empregatícios.
-* Comparação mais eficiente entre diferentes períodos.
-* Interface mais organizada e intuitiva.
-* Maior apoio à análise de dados para formulação de políticas públicas.
+- Valor Entregue ao Usuário Final:
+Visualização histórica ampliada dos vínculos empregatícios.
+Comparação mais eficiente entre diferentes períodos.
+Interface mais organizada e intuitiva.
+Maior apoio à análise de dados para formulação de políticas públicas.
 ---
 
 ## 📝 Descrição da Solução
