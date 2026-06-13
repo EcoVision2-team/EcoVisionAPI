@@ -9,10 +9,10 @@
 - Hipótese Validada: A inclusão de dados dos anos de 2019 e 2020, juntamente com melhorias visuais e de integração dos componentes do dashboard, permitirá análises mais precisas e facilitará a tomada de decisões baseada em dados.
 
 - Valor Entregue ao Usuário Final:
-Visualização histórica ampliada dos vínculos empregatícios.
-Comparação mais eficiente entre diferentes períodos.
-Interface mais organizada e intuitiva.
-Maior apoio à análise de dados para formulação de políticas públicas.
+*Visualização histórica ampliada dos vínculos empregatícios.
+*Comparação mais eficiente entre diferentes períodos.
+*Interface mais organizada e intuitiva.
+*Maior apoio à análise de dados para formulação de políticas públicas.
 ---
 
 ## 📝 Descrição da Solução
