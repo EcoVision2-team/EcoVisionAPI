@@ -25,8 +25,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| 11 | Como tomador de decisões de políticas públicas quero definir modelo, cor e layout | Média | 4 horas |
+| 12 | Como tomador de decisões de políticas públicas quero incluir os anos de 2019 e 2020 da base de dados para visualizar de forma mais ampliada os crescimentos e descrescimentos dos vínculos empregatícios ativos.  | Alta | 12 horas |
+| 13 | Como tomador de decisões de políticas públicas, quero uma interface clara e intuitiva combinando todos os blocos dentro do dashboard. | Alta | 8 horas |
 
 ---
 
