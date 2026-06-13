@@ -9,17 +9,28 @@
 - Hipótese Validada: A inclusão de dados dos anos de 2019 e 2020, juntamente com melhorias visuais e de integração dos componentes do dashboard, permitirá análises mais precisas e facilitará a tomada de decisões baseada em dados.
 
 - Valor Entregue ao Usuário Final:
-*Visualização histórica ampliada dos vínculos empregatícios.
-*Comparação mais eficiente entre diferentes períodos.
-*Interface mais organizada e intuitiva.
-*Maior apoio à análise de dados para formulação de políticas públicas.
+* Visualização histórica ampliada dos vínculos empregatícios.
+* Comparação mais eficiente entre diferentes períodos.
+* Interface mais organizada e intuitiva.
+* Maior apoio à análise de dados para formulação de políticas públicas.
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Nesta etapa foi realizada a evolução do dashboard em Power BI, com foco na ampliação da base de dados e na melhoria da experiência do usuário.
+
+- Funcionalidades Principais Incluídas:
+* Inclusão dos dados referentes aos anos de 2019 e 2020.
+* Reorganização dos elementos visuais do dashboard.
+* Integração dos blocos e gráficos em uma única interface.
+* Padronização de layout, cores e elementos gráficos.
+* Aprimoramento da navegação e interpretação dos indicadores.
+
+- Limitações Conhecidas:
+* Os dados analisados permanecem restritos à base disponibilizada pelo projeto.
+* Não há previsão automática ou análise preditiva.
+* O dashboard depende de atualização manual da base de dados.
+
+- Escopo Reduzido: Foram implementadas apenas as melhorias essenciais para validar a utilidade da ampliação histórica dos dados e da reorganização visual do dashboard, sem incluir novas funcionalidades analíticas avançadas.
 
 ---
 
@@ -41,15 +52,16 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02    | Construção inicial do dashboard Power BI, importação da base de dados e criação dos indicadores principais.                      | Concluído|
+                       
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+* O MVP deve permitir que o usuário visualize e compare os vínculos empregatícios ativos entre os anos disponíveis na base de dados.
+* O dashboard deve apresentar os dados de forma clara, organizada e integrada.
+* O sistema deve permitir a navegação entre os indicadores sem perda de contexto visual.
+* O dashboard deve refletir corretamente os dados adicionados referentes aos anos de 2019 e 2020.
 
 ---
 
