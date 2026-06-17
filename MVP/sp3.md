@@ -83,3 +83,6 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ## 📂 Anexos / Evidências
 ## 📊 Dashboard Power BI
 - 🌐 **Dísponivel em:** https://app.powerbi.com/view?r=eyJrIjoiMjg2MzIxYmYtZDEyNi00MjQxLTg1NjMtNGNhMzJjMjI0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true
+
+- Vídeo MVP – 3ª Sprint:
+- 
