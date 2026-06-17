@@ -63,7 +63,7 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02    | Construção inicial do dashboard Power BI, importação da base de dados e criação dos indicadores principais.                      | Concluído|
+| 03    | Construção inicial do dashboard Power BI, importação da base de dados e criação dos indicadores principais.                      | Concluído|
                        
 
 ---
