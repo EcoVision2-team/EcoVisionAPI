@@ -94,6 +94,10 @@ Painel interativo com os gráficos e dados econômicos consolidados de São Jos�
 Dísponivel em:
 https://app.powerbi.com/view?r=eyJrIjoiMjg2MzIxYmYtZDEyNi00MjQxLTg1NjMtNGNhMzJjMjI0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true
 
+# Relatório
+Segue abaixo o link de acesso ao relatório referente ao projeto API. O documento foi elaborado para apresentar formalmente as informações relacionadas ao desenvolvimento do projeto.
+https://docs.google.com/document/d/1OZf7PDx3Z9G2c0eiYzp0lGQ-USWz8lcU/edit?usp=drivesdk&ouid=104110253598311846039&rtpof=true&sd=true
+
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
