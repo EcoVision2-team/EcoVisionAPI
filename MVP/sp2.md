@@ -42,7 +42,7 @@ indicadores e relatórios gerenciais dinâmicos sobre as cadeias produtivas loca
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Prefeitura de São José dos Campos (Gestão Pública)
+- **Persona 1:** Secretaria de Inovação e Desenvolvimento Econômico de São José dos Campos (Gestão Pública)
 Representa órgãos públicos responsáveis pelo planejamento e desenvolvimento econômico da região.
 
 Necessidade: acesso a dados estruturados e confiáveis sobre o mercado de trabalho e setores produtivos.
