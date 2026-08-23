@@ -34,7 +34,7 @@ Escopo: O MVP contempla o tratamento e organização dos dados e sua visualizaç
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:**Secretaria de Inovação e Desenvolvimento Econômico de São José dos Campos (Gestão Pública)
+- **Persona 1:** Secretaria de Inovação e Desenvolvimento Econômico de São José dos Campos (Gestão Pública)
 Representa órgãos públicos responsáveis pelo planejamento e desenvolvimento econômico da região.
 
 Necessidade: acesso a dados estruturados e confiáveis sobre o mercado de trabalho e setores produtivos.
