@@ -105,5 +105,5 @@ https://docs.google.com/document/d/1OZf7PDx3Z9G2c0eiYzp0lGQ-USWz8lcU/edit?usp=dr
 | 01                | 27/04/2026 | finalizado | [MVP](MVP/sp1.md)  |
 | 02                | 25/05/2026 | finalizado | [MVP](MVP/sp2.md)  |
 | 03                | 15/06/2026 | finalizado | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 25/06/2026 | a fazer  | [MVP](#)  |
+| Feira de Soluções | 25/06/2026 | finalizado  | [MVP](#)  |
 
